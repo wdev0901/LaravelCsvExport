@@ -1,5 +1,7 @@
 # DB上のデータをCSV形式で出力
 
+![LaravelCsvExport](Image.jpg)
+
 ### 取り付けます指示
 1. プロジェクト用の`csv_export`データベースを作成します。
 2. プロジェクトのルートから、`cp .env.example .env` を実行します。
