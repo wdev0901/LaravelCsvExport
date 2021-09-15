@@ -31,3 +31,5 @@
 
 ### Laravel Auth License
 Laravel-auth is licensed under the [MIT license](https://opensource.org/licenses/MIT). Enjoy!
+
+&copy; 2021 **dmitri0901** All Rights Reserved.
